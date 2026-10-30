@@ -1,0 +1,11 @@
+# Caché de Godot (se regenera al abrir el proyecto)
+.godot/
+*.import.tmp
+
+# Capturas de las pruebas automáticas
+capturas*/
+bugs/
+
+# Sistema
+.DS_Store
+Thumbs.db
